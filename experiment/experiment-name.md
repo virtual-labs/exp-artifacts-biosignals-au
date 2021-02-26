@@ -1,1 +1,1 @@
-## Experiment name
+## Filtering and removal of artifacts in Biosignals
