@@ -6,7 +6,7 @@
 
 •	EMG
 
-•	All the above
+**•	All the above**
 
 &nbsp;
 
@@ -14,7 +14,7 @@
 
 •	As PDF File
 
-•	As EDF file
+**•	As EDF file**
 
 •	As word file
 
@@ -31,7 +31,7 @@
 
 •	Brain death
 
-•	All the above.
+**•	All the above.**
 
 
 
@@ -45,4 +45,4 @@
 
 •	EEG
 
-•	All the above
+**•	All the above**
