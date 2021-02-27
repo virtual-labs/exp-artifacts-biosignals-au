@@ -7,7 +7,7 @@
 
 •	Median filter
 
-•	All of the above
+**•	All of the above**
 
 
 &nbsp;
@@ -20,7 +20,7 @@
 
 •	Notch/Comb filter
 
-•	Savitzy-Golay filter
+**•	Savitzy-Golay filter**
 
 
 &nbsp;
@@ -33,14 +33,14 @@
 
 •	Time Slice
 
-•	All of the above
+**•	All of the above**
 
 
 &nbsp;
 
 4.	Low-pass filter retain:
 
-•	High frequency signal
+**•	High frequency signal**
 
 
 •	Low frequency signal
@@ -59,4 +59,4 @@
 
 •	Cardiac Artefacts
 
-•	All the above
+**•	All the above**
