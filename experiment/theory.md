@@ -20,10 +20,10 @@ Physiological artifacts are a category of artifacts with physiological origin, i
 
 
 
-![](/experiment/images/1.png)
+<center><img src="images/1.png" title="" /></center>
 &nbsp;
 
-   Fig 1: Pictorial representation of pulse artifacts(A) and Chewing Artifacts(B) in a window
+   <center>Fig 1: Pictorial representation of pulse artifacts(A) and Chewing Artifacts(B) in a window</center>
              
           
 &nbsp;
@@ -39,9 +39,9 @@ Physiological artifacts are a category of artifacts with physiological origin, i
 
 
 &nbsp;
-![](/experiment/images/2.png)
+<center><img src="images/2.png" title="" /></center>
 &nbsp;
-Fig 2: Common artefacts in an EEG signal.
+<center>Fig 2: Common artefacts in an EEG signal.</center>
 
 &nbsp;
 
@@ -67,10 +67,10 @@ Filters designed as, the high-pass filter is derived from the low-pass filter an
 
 
 
-![](/experiment/images/3.png)
+<center><img src="images/3.png" title="" /></center>
 
-Fig 3: Frequency response of each filtering types.
-   Image source: https://blricrex.hypotheses.org/filtering-introduction
+<center>Fig 3: Frequency response of each filtering types.</center>
+ <center>Image source: https://blricrex.hypotheses.org/filtering-introduction</center>
    
 &nbsp;
 
