@@ -88,37 +88,73 @@
      /////////////// Write the MCQ below in the exactly same described format ///////////////
 
 
-     const myQuestions = [{
-            question: "1.Neuroimaging techniques used for bio signal acquisition are:", ///// Write the question inside double quotes
-            answers: {
+     const myQuestions = [
+         
+        {
+            question: "1. Neuroimaging techniques used for bio signal acquisition are:", ///// Write the question inside double quotes
+            
+            answers: 
+            {
                 a: "EEG", ///// Write the option 1 inside double quotes
-                b: "fmri",
-                c: "EMG",
-                d: "All the above",///// Write the option 2 inside double quotes
+                b: "fmri", ///// Write the option 2 inside double quotes
+                c: "EMG", ///// Write the option 2 inside double quotes
+                d: "All the above", ///// Write the option 2 inside double quotes
             },
+            
             correctAnswer: "d" ///// Write the correct option inside double quotes
         },
 
-    {
-            question: "2.Electroencephalographic data are recorded in which format:", ///// Write the question inside double quotes
-            answers: {
+
+
+        {
+            question: "2. Electroencephalographic data are recorded in which format:", ///// Write the question inside double quotes
+            
+            answers: 
+            {
                 a: "As PDF File", ///// Write the option 1 inside double quotes
-                b: "As EDF file",
-                c: "As word file",
-                d: "None of the above",///// Write the option 2 inside double quotes
+                b: "As EDF file", ///// Write the option 2 inside double quotes
+                c: "As word file", ///// Write the option 2 inside double quotes
+                d: "None of the above", ///// Write the option 2 inside double quotes
             },
+            
             correctAnswer: "b" ///// Write the correct option inside double quotes
         },
-{
-            question: "3.Clinically EEG technique is applied to detect:", ///// Write the question inside double quotes
-            answers: {
+
+
+
+
+        {
+            question: "3. Clinically EEG technique is applied to detect:", ///// Write the question inside double quotes
+            
+            answers: 
+            {
                 a: "Encephalopathy", ///// Write the option 1 inside double quotes
-                b: "Encephalitis",
-                c: "Brain death",
-                d: "All the above.",///// Write the option 2 inside double quotes
+                b: "Encephalitis", ///// Write the option 2 inside double quotes
+                c: "Brain death", ///// Write the option 2 inside double quotes
+                d: "All the above", ///// Write the option 2 inside double quotes
             },
+            
             correctAnswer: "d" ///// Write the correct option inside double quotes
         },
+
+
+
+        {
+            question: "4. Common bioelectric signals are:", ///// Write the question inside double quotes
+            
+            answers: 
+            {
+                a: "EMG", ///// Write the option 1 inside double quotes
+                b: "ECG", ///// Write the option 2 inside double quotes
+                c: "EEG", ///// Write the option 2 inside double quotes
+                d: "All the above", ///// Write the option 2 inside double quotes
+            },
+            
+            correctAnswer: "d" ///// Write the correct option inside double quotes
+        },
+
+        
+
 
 
      ];
