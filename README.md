@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-This experiment introduces the analysis of biosignals such as ECG, EEG, and EMG, focusing on identifying and interpreting common artifacts that can distort signal quality. Learners gain hands-on experience in distinguishing physiological signals from noise using visualization and filtering techniques.
+This experiment introduces fundamental techniques for filtering and removing artifacts from biosignals such as ECG and EEG. It demonstrates how noise and physiological interferences can distort signals and explores digital filtering methods—like bandpass and notch filters—to enhance signal quality for accurate analysis.
 
 
 <b>Name of Developer | <b> Dr. Shyam Diwakar 
